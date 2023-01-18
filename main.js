@@ -3,8 +3,10 @@ const EMPTY_HEART = '♡'
 const FULL_HEART = '♥'
 
 // Your JavaScript code goes here!
-
-
+// FIRST ATTEMPT document.querySelector('#like').addEventListener('click', e => console.log(e))
+document.querySelector('#like').addEventListener('click',function(mimicServerCall){
+  
+})
 
 
 //------------------------------------------------------------------------------
